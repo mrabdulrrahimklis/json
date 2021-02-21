@@ -1,0 +1,47 @@
+
+{
+    "api": {
+        "rezultati": [
+            {
+                "id": "24430",
+                "oib": "83234490445",
+                "name": "BASTIJANČIĆ ERJAVEC VALNA",
+                "postcode": "43000",
+                "city": "BJELOVAR",
+                "date": "04.01.2021.",
+                "amount": "23.141,82 kn",
+                "description": "Ukupan trošak - dužnosnici ZA 12/2020",
+                "level_1": "3,3",
+                "level_2": "31,32",
+                "level_3": "31,32",
+                "level_4": "31,32",
+                "function_level_1": "0",
+                "function_level_2": "01",
+                "function_level_3": "011",
+                "function_level_4": "0111",
+                "comment": null,
+                "update_date": null
+            },
+            {
+                "id": "24431",
+                "oib": "18127206968",
+                "name": "BRAJDIĆ IGOR",
+                "postcode": "43000",
+                "city": "BJELOVAR",
+                "date": "04.01.2021.",
+                "amount": "21.918,23 kn",
+                "description": "Ukupan trošak - dužnosnici ZA 12/2020",
+                "level_1": "3,3",
+                "level_2": "31,32",
+                "level_3": "31,32",
+                "level_4": "31,32",
+                "function_level_1": "0",
+                "function_level_2": "01",
+                "function_level_3": "011",
+                "function_level_4": "0111",
+                "comment": null,
+                "update_date": null
+            }
+        ]
+    }
+}
